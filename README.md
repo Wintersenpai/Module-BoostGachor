@@ -7,7 +7,7 @@ A custom Magisk module created to enhance Android performance and improve stabil
 		<tr>
             <td align="center">
                 <a href="https://github.com/Wintersenpai">
-                    <img src="https://github.com/account" width="100;" alt="winterxsenapi"/>
+                    <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/151712873?v=4&size=64)" width="100;" alt="winterxsenapi"/>
                                   <br />
                     <sub><b><b>WinterxSenpai</b>
 </sub>
